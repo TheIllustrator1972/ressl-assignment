@@ -1,0 +1,11 @@
+[project]
+name = "ressl"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "chardet>=5.2.0",
+    "fastmcp>=2.13.0.2",
+    "mcp[cli]>=1.20.0",
+]
